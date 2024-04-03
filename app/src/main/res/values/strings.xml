@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quote App</string>
+    <string name="text_cart_is_empty">Tidak ada quote</string>
+    <string name="text_title">Random Anime Quotes</string>
+    <string name="text_subtitle">from animechan.xyz</string>
+</resources>
