@@ -8,7 +8,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.isVisible
-import androidx.lifecycle.Observer
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.arkan.quoteapp.R
 import com.arkan.quoteapp.data.datasource.QuoteApiDataSource
@@ -17,6 +16,7 @@ import com.arkan.quoteapp.data.repository.QuoteRepository
 import com.arkan.quoteapp.data.repository.QuoteRepositoryImpl
 import com.arkan.quoteapp.data.source.network.services.QuoteApiServices
 import com.arkan.quoteapp.databinding.ActivityMainBinding
+import com.arkan.quoteapp.presentation.main.adapter.QuoteAdapter
 import com.arkan.quoteapp.utils.GenericViewModelFactory
 import com.arkan.quoteapp.utils.proceedWhen
 

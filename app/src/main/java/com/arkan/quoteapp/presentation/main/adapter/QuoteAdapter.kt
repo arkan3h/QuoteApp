@@ -1,4 +1,4 @@
-package com.arkan.quoteapp.presentation.main
+package com.arkan.quoteapp.presentation.main.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
